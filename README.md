@@ -8,4 +8,4 @@ It's a learning repository. But you don't have to learn this, just understand it
   
 ##  Links Are Given Bellow
 
-Click [here](become-digital-forensics-investigator.md) to read the become digital forensics investigator!
+Click [here](become-forensics-investigator.md) to read the become digital forensics investigator!
