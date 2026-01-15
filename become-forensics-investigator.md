@@ -20,13 +20,14 @@
     *   To become a digital forensics investigator, you must be knowledgeable about working the hard drives and solid state drives and its troubleshooting.
     *   To become a digital forensics investigator, you must be knowledgeable about working the different file systems and its troubleshooting.
     *   To become a digital forensics investigator, you must be knowledgeable about networking, networking protocols and its troubleshooting.
-    *   To become a digital forensics investigator, you must be knowledgeable about honeyports, firewall, intrusion detection system  and its troubleshooting.
+    *   To become a digital forensics investigator, you must be knowledgeable about honeypots, firewall, intrusion detection system  and its troubleshooting.
     *   To become a digital forensics investigator, you must be knowledgeable about computer operating systems, It's internals, it's drivers, it's registories and its troubleshooting.
     *   To become a digital forensics investigator, you must be knowledgeable about password cracking and anti forensics technologies.
-    *   To become a digital forensics investigator, you must be knowledgeable about reverse engineering and cellset analyze.
+    *   To become a digital forensics investigator, you must be knowledgeable about malware analysis, reverse engineering and cellset analyze.
+    *   To become a digital forensics investigator, you must be knowledgeable about forensics documentation.
     *   **Security Based Certifications Gaining**: There is a lot of security based certification knowledge that you need to acquire to become a digital forensics investigator, which is explained here.
-    *   To become a pentester, you must be know about bachelor in cyber security and master in cyber security.
+    *   To become a digital forensics investigator, you must be know about bachelor in cyber security and master in cyber security.
     *   **Digital Forensics Based Certifications Gaining**: There is a lot of digital forensics based certification knowledge that you need to acquire to become a digital forensics investigator, which is explained here.
-    *   To become a pentester, you must be know about computer hacking forensic investigator, GIAC certified forensic examiner, GIAC certified forensic analyst, GIAC network forensic analyst and certified information privacy professional.
+    *   To become a digital forensics investigator, you must be know about computer hacking forensic investigator, GIAC certified forensic examiner, GIAC certified forensic analyst, GIAC network forensic analyst and certified information privacy professional.
     *   **Practical Experience Gainings**: Here is an explanation of how to train to become a digital forensics investigator.
     *   There is no easy way to gain the experience to become a digital forensic investigator. The only way to do that is to join a firm in that field.
